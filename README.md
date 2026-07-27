@@ -1,8 +1,4 @@
 # 🤖 AI Helpdesk Agent Pro
-
-<!-- Banner -->
-![AI Helpdesk Agent Pro Banner](assets/banner.png)
-
 > AI-powered IT Helpdesk system built with Flask, Ollama (Llama 3.2), SQLite, and n8n.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
