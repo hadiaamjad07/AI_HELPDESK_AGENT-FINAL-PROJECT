@@ -123,57 +123,55 @@ Unlike cloud AI services, the model runs locally, helping keep project data on t
 | Requests | API Communication |
 
 ---
-
-
-
-
 # 📂 Project Structure
 
 ```text
 AI_HELPDESK_AGENT_PRO/
-
-│── app.py
-│── database.py
-│── requirements.txt
-│── database.db
+│
+├── app.py
+├── database.py
+├── requirements.txt
+├── database.db
 │
 ├── ai/
-│     └── ollama.py
+│   └── ollama.py
 │
 ├── routes/
-│     ├── login.py
-│     ├── ticket.py
-│     └── chat.py
+│   ├── login.py
+│   ├── ticket.py
+│   └── chat.py
 │
 ├── templates/
-│     ├── login.html
-│     ├── dashboard.html
-│     ├── create_ticket.html
-│     └── chat.html
+│   ├── login.html
+│   ├── dashboard.html
+│   ├── create_ticket.html
+│   └── chat.html
 │
 ├── static/
-│     ├── css/
-│     ├── js/
-│     └── images/
+│   ├── css/
+│   ├── js/
+│   └── images/
 │
 └── workflows/
-      └── helpdesk.json
----
+    └── helpdesk.json
+```
 
 ---
-
 
 # 👨‍💻 Author
 
 <div align="center">
 
-## **Hadia Awan**
+<img src="https://img.shields.io/badge/Author-Hadia%20Awan-blue?style=for-the-badge" alt="Author Badge"/>
 
-🎓 Artificial Intelligence Student
+### **Hadia Awan**
 
-💻 Passionate about Artificial Intelligence, Machine Learning, and Intelligent Automation
+🎓 **Artificial Intelligence Student**
 
-🌐 GitHub: **https://github.com/hadiaamjad07**
+💻 Passionate about **Artificial Intelligence, Machine Learning, Flask Development, and Intelligent Automation**
+
+🌐 **GitHub:**  
+https://github.com/hadiaamjad07
 
 </div>
 
@@ -183,28 +181,41 @@ AI_HELPDESK_AGENT_PRO/
 
 If you found this project useful, please consider supporting it!
 
-⭐ **Star** this repository
-
-🍴 **Fork** this repository
-
-📢 **Share** it with your friends and developers
-
-🐛 **Report Issues** if you find any bugs
-
-💡 **Contribute** by submitting Pull Requests
+- ⭐ Star this repository
+- 🍴 Fork this repository
+- 📢 Share it with your friends and developers
+- 🐛 Report issues if you find any bugs
+- 💡 Contribute by submitting Pull Requests
 
 ---
 
 <div align="center">
 
-### ❤️ Thank you for visiting AI Helpdesk Agent Pro!
+### ❤️ Thank You for Visiting AI Helpdesk Agent Pro!
 
-If you like this project, don't forget to ⭐ the repository.
+If you like this project, don't forget to **⭐ Star** the repository.
 
 **Happy Coding! 🚀**
 
 </div>
+
 ---
 
-# liscence
-This project is developed for educational and internship purposes under the MIT License.
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+It is developed for **educational, learning, and internship purposes**.
+
+Feel free to use, modify, and improve this project for personal or academic use.
+
+---
+
+<div align="center">
+
+### 🌟 Built with ❤️ using Flask, Ollama, SQLite & n8n
+
+</div>
+
+
+
