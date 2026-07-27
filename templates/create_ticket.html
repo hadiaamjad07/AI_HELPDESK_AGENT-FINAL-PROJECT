@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}New Ticket{% endblock %}
+{% block content %}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-body">
+                <h4 class="mb-4">🎫 Create New Ticket</h4>
+                <form method="POST">
+                    <div class="mb-3">
+                        <label class="form-label">Title</label>
+                        <input type="text" name="title" class="form-control" placeholder="e.g. Printer not working" required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Description</label>
+                        <textarea name="description" class="form-control" rows="4" placeholder="Describe your issue in detail..." required></textarea>
+                    </div>
+                    <p class="text-muted small">🤖 AI will automatically fill Category, Priority, and Summary after you submit.</p>
+                    <button type="submit" class="btn btn-primary w-100">Submit Ticket</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
