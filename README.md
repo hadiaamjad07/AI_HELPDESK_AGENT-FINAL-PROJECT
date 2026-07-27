@@ -124,40 +124,8 @@ Unlike cloud AI services, the model runs locally, helping keep project data on t
 
 ---
 
-# 📸 Screenshots
 
-## 🔐 Login Page
 
-![Login](assets/login.png)
-
----
-
-## 📊 Dashboard
-
-![Dashboard](assets/dashboard.png)
-
----
-
-## 🎫 Create Ticket
-
-![Create Ticket](assets/create-ticket.png)
-
----
-
-## 🤖 AI Chat
-
-![AI Chat](assets/chat.png)
-
----
-
-# 🎥 Demo
-
-> Replace the link below with your YouTube demo video.
-
-**🎬 Watch Demo:**  
-https://youtu.be/your-demo-video
-
----
 
 # 📂 Project Structure
 
@@ -190,5 +158,50 @@ AI_HELPDESK_AGENT_PRO/
 │
 └── workflows/
       └── helpdesk.json
+---
 
+# 👨‍💻 Author
+
+<div align="center">
+
+## **Hadia Awan**
+
+🎓 Artificial Intelligence Student
+
+💻 Passionate about Artificial Intelligence, Machine Learning, and Intelligent Automation
+
+🌐 GitHub: **https://github.com/hadiaamjad07**
+
+</div>
+
+---
+
+# ⭐ Support
+
+If you found this project useful, please consider supporting it!
+
+⭐ **Star** this repository
+
+🍴 **Fork** this repository
+
+📢 **Share** it with your friends and developers
+
+🐛 **Report Issues** if you find any bugs
+
+💡 **Contribute** by submitting Pull Requests
+
+---
+
+<div align="center">
+
+### ❤️ Thank you for visiting AI Helpdesk Agent Pro!
+
+If you like this project, don't forget to ⭐ the repository.
+
+**Happy Coding! 🚀**
+
+</div>
+---
+
+# liscence
 This project is developed for educational and internship purposes under the MIT License.
